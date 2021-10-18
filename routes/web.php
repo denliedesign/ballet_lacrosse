@@ -25,9 +25,9 @@ Route::get('/instructors', function () {
     return view('instructors');
 });
 
-Route::get('/heidi', function () {
-    return view('heidi');
-});
+//Route::get('/heidi', function () {
+//    return view('heidi');
+//});
 
 Route::get('/tickets', function () {
     return view('tickets');

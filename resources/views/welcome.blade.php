@@ -62,7 +62,7 @@
                                 Heidi is the story of a spunky orphan who dances her way into her grandfather’s heart. Along the the way, she embraces mountain life and people but then is taken to the city. Heidi becomes beloved by the girl she is a companion for, but is returned to her grandfather. She is almost kidnapped, and then faces a nearly tragic accident over an argument with her friends. Goats, villagers, school children, and even gypsies, dance together to tell the story of this young girl and the lives that she touches, teaching everyone about the joy and wonder of life and the magic that happens when they open their hearts to each other.
                             </p>
                             <div class="d-flex justify-content-start">
-                                <a href="/heidi"><div class="btn btn-info text-uppercase shadow" style="font-family: 'Oswald', sans-serif;">Learn More</div></a>
+                                <a href="/tickets"><div class="btn btn-info text-uppercase shadow" style="font-family: 'Oswald', sans-serif;">Learn More</div></a>
                             </div>
                         </div>
                     </div>
