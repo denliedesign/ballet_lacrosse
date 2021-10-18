@@ -1,100 +1,80 @@
-<!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+@extends('layouts.app')
+@section('content')
 
-        <title>BLC</title>
-
-        <!-- Fonts -->
-
-
-        <!-- Styles -->
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
-        <link rel="stylesheet" href="/css/style.css">
-    </head>
-    <body>
-
-    <div id="sidebar">
-        <div class="d-flex justify-content-center pt-5 pb-3">
-            <img src="/images/blc-logo.png" alt="blc logo" class="img-fluid">
-        </div>
-        <ul class="text-uppercase list-group text-left" id="sidebar-nav">
-            <a href="" class="remove-link-styling"><li class="list-group-item border-0"><ion-icon name="film-outline"></ion-icon> Performances</li></a>
-            <a href="" class="remove-link-styling"><li class="list-group-item border-0"><ion-icon name="ticket-outline"></ion-icon> Tickets</li></a>
-            <a href="" class="remove-link-styling"><li class="list-group-item border-0"><ion-icon name="people-outline"></ion-icon> Staff</li></a>
-            <a href="" class="remove-link-styling"><li class="list-group-item border-0"><ion-icon name="newspaper-outline"></ion-icon> In The News</li></a>
-        </ul>
-    </div>
-
-
-            <div id="main">
-
-                <div id="main-calendar" class="main-scroll-up">
-                    <div class="row m-5">
-                        <div class="col col-with-border">
-                            <a href="" class="remove-link-styling">
-                                <div>
-                                    <span class="fw-bold">HEIDI</span>
-                                    <br><span class="text-muted">SAT</span>
-                                    <br><span class="text-info">NOV 13</span>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col">
-                            <a href="" class="remove-link-styling">
-                                <div>
-                                    <span class="fw-bold">HEIDI</span>
-                                    <br><span class="text-muted">SUN</span>
-                                    <br><span class="text-info">NOV 14</span>
-                                </div>
-                            </a>
-                        </div>
+        <div class="row m-5">
+            <div class="col col-with-border">
+                <a href="/tickets" class="remove-link-styling">
+                    <div>
+                        <h4 class="pb-0 mb-0 fw-bold">HEIDI</h4>
+                        <span class="text-muted">SAT</span>
+                        <br><span class="text-info">NOV 13</span><span class="text-muted"> &nbsp;  2:00 PM</span>
                     </div>
-
-                    <!-- next section -->
-
-                    <div id="welcome-section" class="py-5 mx-0 px-0" style="background: beige;">
-                        <div class="container">
-                            <div class="row m-0 p-0">
-                                <div class="col-sm text-black d-flex justify-content-center align-items-center">
-                                    <div class="animate-recital-text p-3">
-                                        <h1 class="text-uppercase">Ballet La Crosse</h1>
-                                        <p>
-                                            Ballet La Crosse is designed to increase exposure to and appreciation for classical performance arts in the community as well as to provide opportunities for area youth to gain training that mirrors that of the professional world.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="col-sm">
-                                    <img src="/images/ballet.jpg" alt="" class="img-fluid animate-recital">
-                                </div>
-                            </div>
-
-{{--                            <div class="row my-5">--}}
-{{--                                <div class="text-dark">--}}
-
-{{--                                </div>--}}
-{{--                            </div>--}}
-
-                        </div><!-- end container -->
-                    </div><!-- end beige -->
-
-                    <div id="footer" class="m-0 p-4 text-center">
-                        <a href="https://www.facebook.com/balletlacrosse/" target="_blank"><ion-icon name="logo-facebook" class="fb-logo"></ion-icon></a>
-                        <br>
-                        <small class="text-muted">Copyright © 2021. Ballet La Crosse. All rights reserved.</small>
-                    </div>
-
-                </div>
+                </a>
             </div>
+            <div class="col col-with-border">
+                <a href="/tickets" class="remove-link-styling">
+                    <div>
+                        <h4 class="pb-0 mb-0 fw-bold">HEIDI</h4>
+                        <span class="text-muted">SAT</span>
+                        <br><span class="text-info">NOV 13</span><span class="text-muted"> &nbsp;  7:00 PM</span>
+                    </div>
+                </a>
+            </div>
+            <div class="col">
+                <a href="/tickets" class="remove-link-styling">
+                    <div>
+                        <h4 class="pb-0 mb-0 fw-bold">HEIDI</h4>
+                        <span class="text-muted">SUN</span>
+                        <br><span class="text-info">NOV 14</span><span class="text-muted"> &nbsp;  2:00 PM</span>
+                    </div>
+                </a>
+            </div>
+        </div>
 
+        <!-- next section -->
 
-    </body>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
-    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/gsap.min.js" defer></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/ScrollToPlugin.min.js" defer></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/ScrollTrigger.min.js" defer></script>
-    <script src="/js/script.js" defer></script>
-</html>
+        <div id="welcome-section" class="py-5 mx-0 px-0" style="background: #eff2fb;">
+            <div class="container">
+                <div class="row mb-5 p-0">
+                    <div class="col-sm text-black d-flex justify-content-center align-items-center">
+                        <div class="animate-recital-text p-3">
+                            <h1 class="text-uppercase">Ballet La Crosse</h1>
+                            <p>
+                                Ballet La Crosse is designed to increase exposure to and appreciation for classical
+                                performance arts in the community as well as to provide opportunities for area youth to
+                                gain training that mirrors that of the professional world.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-sm">
+                        <img src="/images/blc-support.jpg" alt="" class="img-fluid animate-recital">
+                    </div>
+                </div>
+
+                <div class="row mt-5 p-0">
+                    <div class="col-sm animate-recital-2">
+                        <img src="/images/heidi-1.jpg" alt="" class="img-fluid">
+                    </div>
+                    <div class="col-sm text-black d-flex justify-content-center align-items-center">
+                        <div class="animate-recital-text-2 p-3">
+                            <h1 class="text-uppercase">Heidi</h1>
+                            <p>
+                                Heidi is the story of a spunky orphan who dances her way into her grandfather’s heart. Along the the way, she embraces mountain life and people but then is taken to the city. Heidi becomes beloved by the girl she is a companion for, but is returned to her grandfather. She is almost kidnapped, and then faces a nearly tragic accident over an argument with her friends. Goats, villagers, school children, and even gypsies, dance together to tell the story of this young girl and the lives that she touches, teaching everyone about the joy and wonder of life and the magic that happens when they open their hearts to each other.
+                            </p>
+                            <div class="d-flex justify-content-start">
+                                <a href="/heidi"><div class="btn btn-info text-uppercase shadow" style="font-family: 'Oswald', sans-serif;">Learn More</div></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                {{--                            <div class="row my-5">--}}
+                {{--                                <div class="text-dark">--}}
+
+                {{--                                </div>--}}
+                {{--                            </div>--}}
+
+            </div><!-- end container -->
+        </div><!-- end beige -->
+
+@endsection

@@ -17,6 +17,26 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/performances', function () {
+    return view('performances');
+});
+
+Route::get('/instructors', function () {
+    return view('instructors');
+});
+
+Route::get('/heidi', function () {
+    return view('heidi');
+});
+
+Route::get('/tickets', function () {
+    return view('tickets');
+});
+
+Route::get('/news', function () {
+    return view('news');
+});
+
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return view('dashboard');
 })->name('dashboard');

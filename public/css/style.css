@@ -1,6 +1,14 @@
 body {
-    font-family: 'Urbanist', sans-serif;
+    /*font-family: 'Urbanist', sans-serif;*/
+    /*font-family: 'Josefin Sans', sans-serif;*/
+    font-family: 'Quattrocento', serif;
     overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    /*font-family: 'Yeseva One', cursive;*/
+    font-family: 'Oswald', sans-serif;
+
 }
 
 #sidebar {
@@ -30,12 +38,29 @@ body {
     padding: 5px 10px;
 }
 
+.sidebar-show {
+    display: block !important;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 220px;
+    transform: translateX(-220px);
+}
+
+.side-item {
+    opacity: 0;
+}
+
+/*.main-shift {*/
+/*    margin-left: 220px !important;*/
+/*}*/
+
 #main {
-    margin-left: 220px !important;
     background: black;
     color: white;
     height: 100vh;
-    background: url("/images/blc.jpg");
+    background: url("/images/blc-main-2.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -69,10 +94,12 @@ body {
 
 .remove-link-styling div:hover {
     color: white;
-    background: beige;
+    background: #eff2fb;
 }
 
 .animate-recital,
+.animate-recital-2,
+.animate-recital-text-2,
 .animate-recital-text {
     /*transform: translateX(100px);*/
     opacity: 0;
@@ -101,4 +128,28 @@ body {
 
 .fb-logo:hover {
     color: #01849C;
+}
+
+.staff-block {
+    background: white;
+    padding: 20px;
+}
+
+.btn-info {
+    background: #0dcaf0 !important;
+}
+.btn-info:hover {
+    background: #01849C !important;
+}
+
+#hamburger {
+    position: fixed;
+    font-size: 2.5em;
+    color: rgba(255,255,255,0.7);
+    top: 0;
+    right: 10px;
+    background: rgba(0,0,0,0.9);
+    z-index: 5;
+    border-radius: 0 0 5px 5px;
+    line-height: 1;
 }
