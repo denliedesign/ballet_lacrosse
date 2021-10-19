@@ -1,33 +1,35 @@
 @extends('layouts.app')
 @section('content')
 
-        <div class="row m-5">
-            <div class="col col-with-border">
-                <a href="/tickets" class="remove-link-styling">
-                    <div>
-                        <h4 class="pb-0 mb-0 fw-bold">HEIDI</h4>
-                        <span class="text-muted">SAT</span>
-                        <br><span class="text-info">NOV 13</span><span class="text-muted"> &nbsp;  2:00 PM</span>
-                    </div>
-                </a>
-            </div>
-            <div class="col col-with-border">
-                <a href="/tickets" class="remove-link-styling">
-                    <div>
-                        <h4 class="pb-0 mb-0 fw-bold">HEIDI</h4>
-                        <span class="text-muted">SAT</span>
-                        <br><span class="text-info">NOV 13</span><span class="text-muted"> &nbsp;  7:00 PM</span>
-                    </div>
-                </a>
-            </div>
-            <div class="col">
-                <a href="/tickets" class="remove-link-styling">
-                    <div>
-                        <h4 class="pb-0 mb-0 fw-bold">HEIDI</h4>
-                        <span class="text-muted">SUN</span>
-                        <br><span class="text-info">NOV 14</span><span class="text-muted"> &nbsp;  2:00 PM</span>
-                    </div>
-                </a>
+        <div class="d-none d-md-block">
+            <div class="row m-5">
+                <div class="col col-with-border">
+                    <a href="/tickets" class="remove-link-styling">
+                        <div>
+                            <h4 class="pb-0 mb-0 fw-bold">HEIDI</h4>
+                            <span class="text-muted">SAT</span>
+                            <br><span class="text-info">NOV 13</span><span class="text-muted"> &nbsp;  2:00 PM</span>
+                        </div>
+                    </a>
+                </div>
+                <div class="col col-with-border">
+                    <a href="/tickets" class="remove-link-styling">
+                        <div>
+                            <h4 class="pb-0 mb-0 fw-bold">HEIDI</h4>
+                            <span class="text-muted">SAT</span>
+                            <br><span class="text-info">NOV 13</span><span class="text-muted"> &nbsp;  7:00 PM</span>
+                        </div>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="/tickets" class="remove-link-styling">
+                        <div>
+                            <h4 class="pb-0 mb-0 fw-bold">HEIDI</h4>
+                            <span class="text-muted">SUN</span>
+                            <br><span class="text-info">NOV 14</span><span class="text-muted"> &nbsp;  2:00 PM</span>
+                        </div>
+                    </a>
+                </div>
             </div>
         </div>
 
