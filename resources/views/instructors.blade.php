@@ -77,7 +77,7 @@
                         <div>
                             <h4>Miss Misty Lown</h4>
                             <p>
-                                Miss Misty has been sharing her passion for dance and mentorship with students for 25 years. She is the Founder of More Than Just Great Dancing™ affiliated dance studios and “A Chance to Dance Foundation”, a 501(c) 3 charitable organization. Misty is passionate about community service and has donated over $250,000 in combined cash and studio scholarships for the past 20 years.
+                                Miss Misty has been sharing her passion for dance and mentorship with local students for 30 years. She is the Founder of More Than Just Great Dancing™ affiliated dance studios and “A Chance to Dance Foundation”, a 501(c) 3 charitable organization. Misty is passionate about community service and has donated over $500,000 in combined cash and studio scholarships for the past 20 years. Her latest initiative, Youth Protection Advocates in Dances, has provided safety and wellness training for over 2,000 dance educators worldwide.  Misty is proud to support local arts, aspiring artists, and the theater community through Ballet La Crosse.
                             </p>
                         </div>
                     </div>

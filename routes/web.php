@@ -17,8 +17,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/performances', function () {
-    return view('performances');
+Route::get('/repertoire', function () {
+    return view('repertoire');
 });
 
 Route::get('/instructors', function () {
