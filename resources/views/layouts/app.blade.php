@@ -10,6 +10,7 @@
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Yeseva+One&display=swap');
         @import url('https://fonts.googleapis.com/css2?family=Oswald&family=Quattrocento&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
     </style>
 
 
@@ -24,6 +25,9 @@
 <div id="main" class="main-shift">
     <div id="hamburger">
         <ion-icon name="menu-outline"></ion-icon>
+    </div>
+    <div id="head-logo">
+        <a href="/"><h1>Ballet La Crosse</h1></a>
     </div>
     <div id="main-calendar" class="main-scroll-up">
         @yield('content')
