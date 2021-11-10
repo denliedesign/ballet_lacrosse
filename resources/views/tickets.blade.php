@@ -11,7 +11,7 @@
                         <h1 class="text-uppercase text-black text-center">Heidi</h1>
                         <p class="text-black text-center lead">
                             <span class="fw-bold" style="text-decoration: underline;">Date</span>
-                            <br>Saturday, November 13th at 2:00 p.m. & 7:00 p.m.
+                            <br>Saturday, November 13th at 1:00 p.m. & 7:00 p.m.
                             <br>Sunday, November 14th at 2:00 p.m.
                             <br><br>
                             <span class="fw-bold" style="text-decoration: underline;">Pricing</span>

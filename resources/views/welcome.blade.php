@@ -8,7 +8,7 @@
                         <div>
                             <h4 class="pb-0 mb-0 fw-bold">HEIDI</h4>
                             <span class="text-info">SAT</span><span class="text-muted"> &nbsp; NOV 13</span>
-                            <br><span class="text-muted">2:00 PM</span><span class="text-info"> &nbsp;  TICKETS</span>
+                            <br><span class="text-muted">1:00 PM</span><span class="text-info"> &nbsp;  TICKETS</span>
                         </div>
                     </a>
                 </div>
