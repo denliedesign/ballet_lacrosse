@@ -59,7 +59,7 @@
             <div class="row m-5 d-flex align-items-center text-black">
                 <div class="col-sm text-center">
                     <h3>Coppelia</h3>
-                    <small class="text-muted">2017</small>
+                    <small class="text-muted">2017 &middot; 2022</small>
                 </div>
                 <div class="col-sm text-center">
                     <h3>The Firebird</h3>

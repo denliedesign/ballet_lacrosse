@@ -29,9 +29,9 @@ Route::get('/instructors', function () {
 //    return view('heidi');
 //});
 
-Route::get('/tickets', function () {
-    return view('tickets');
-});
+//Route::get('/tickets', function () {
+//    return view('tickets');
+//});
 
 Route::get('/news', function () {
     return view('news');
