@@ -40,7 +40,8 @@
 
                 <div class="row mb-5 p-0">
                     <div class="col-sm d-flex justify-content-center">
-                        <img src="/images/blc-marushka.jpg" alt="male and female ballet dancer dancing together" class="img-fluid">
+{{--                        <img src="/images/blc-marushka.jpg" alt="male and female ballet dancer dancing together" class="img-fluid">--}}
+                        <img src="/images/marushka-22.png" alt="marushka poster" class="img-fluid">
                     </div>
                     <div class="col-sm text-black d-flex justify-content-center align-items-center">
                         <div class="animate-recital-text-2 p-3">
