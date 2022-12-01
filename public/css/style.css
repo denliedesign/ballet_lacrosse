@@ -11,6 +11,10 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 
+#new-nav a:hover {
+    color: #0dcaf0 !important;
+}
+
 #head-logo h1 {
     position: absolute;
     top: 20%;
@@ -129,10 +133,10 @@ h1, h2, h3, h4, h5, h6 {
     transform: translateY(200px);
 }
 
-#footer {
-    background: black;
-    color: white;
-}
+/*#footer {*/
+/*    background: black;*/
+/*    color: white;*/
+/*}*/
 
 .fb-logo {
     font-size: 1.75em;

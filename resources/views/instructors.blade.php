@@ -3,6 +3,9 @@
     <div class="py-5 mx-0 px-0" style="background: #eff2fb;">
         <div class="container text-black">
             <h1 class="text-uppercase text-center">BLC Staff</h1>
+            <p>
+                Ballet La Crosse is also assisted by teaching talents of BLC alumni Hannah Hunt, Chloe Jane Bulman, and MDU teacher Katelyn Phelps. Ballet La Crosse also consistently benefits from the theatrical expertise of Toni Key (Costume Design), Kit Mayer (Set Design), Dillon McCardle (Lighting Design), Sasha York (Guest Artist), and other friends in the arts community. Thank you!
+            </p>
             <div class="row m-5">
                 <div class="row my-2 staff-block rounded shadow">
                     <div class="col-sm col-md-3">
@@ -30,32 +33,32 @@
                         </div>
                     </div>
                 </div>
-                <div class="row my-2 staff-block rounded shadow">
-                    <div class="col-sm col-md-3">
-                        <img src="/images/denise.jpg" alt="denise headshot" class="img-fluid rounded">
-                    </div>
-                    <div class="col-sm col-md-9 d-flex align-items-center">
-                        <div>
-                            <h4>Miss Denise Meyer Benden</h4>
-                            <p>
-                                Miss Denise has been teaching dance at Misty’s Dance Unlimited for eight years. She danced locally in high school and through her undergraduate career at Colorado State University. This is Miss Denise’s 8th year teaching all types of children’s classes at MDU and her fourth season with Ballet La Crosse. She is also the lead teacher for MDU’s Darby’s Dancer’s program for children with special needs. Outside of the dance studio, Miss Denise is the Training and Quality Manager at Logistics Health, Incorporated, where is happy to serve those who have served our country. She lives in La Crosse with her husband, Jeff, and children, Henry and Tabitha.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row my-2 staff-block rounded shadow">
-                    <div class="col-sm col-md-3">
-                        <img src="/images/dennis.jpg" alt="dennis headshot" class="img-fluid rounded">
-                    </div>
-                    <div class="col-sm col-md-9 d-flex align-items-center">
-                        <div>
-                            <h4>Mr. Dennis Williams</h4>
-                            <p>
-                                Mr. Dennis grew up studying ballet at Maple Conservatory of Dance in California. He graduated from Belhaven University with a BFA in dance and has danced professionally with Ballet Mississippi and Filter Dance Company. Additionally, he has four years of experience in Martial Arts. Since 2015, Mr. Dennis has both taught modern and ballet at MDU as well as assisted rehearsals and performed in Ballet La Crosse. His favorite roles include: Dance Master from Cinderella and the Milkman from A Little Princess.
-                            </p>
-                        </div>
-                    </div>
-                </div>
+{{--                <div class="row my-2 staff-block rounded shadow">--}}
+{{--                    <div class="col-sm col-md-3">--}}
+{{--                        <img src="/images/denise.jpg" alt="denise headshot" class="img-fluid rounded">--}}
+{{--                    </div>--}}
+{{--                    <div class="col-sm col-md-9 d-flex align-items-center">--}}
+{{--                        <div>--}}
+{{--                            <h4>Miss Denise Meyer Benden</h4>--}}
+{{--                            <p>--}}
+{{--                                Miss Denise has been teaching dance at Misty’s Dance Unlimited for eight years. She danced locally in high school and through her undergraduate career at Colorado State University. This is Miss Denise’s 8th year teaching all types of children’s classes at MDU and her fourth season with Ballet La Crosse. She is also the lead teacher for MDU’s Darby’s Dancer’s program for children with special needs. Outside of the dance studio, Miss Denise is the Training and Quality Manager at Logistics Health, Incorporated, where is happy to serve those who have served our country. She lives in La Crosse with her husband, Jeff, and children, Henry and Tabitha.--}}
+{{--                            </p>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="row my-2 staff-block rounded shadow">--}}
+{{--                    <div class="col-sm col-md-3">--}}
+{{--                        <img src="/images/dennis.jpg" alt="dennis headshot" class="img-fluid rounded">--}}
+{{--                    </div>--}}
+{{--                    <div class="col-sm col-md-9 d-flex align-items-center">--}}
+{{--                        <div>--}}
+{{--                            <h4>Mr. Dennis Williams</h4>--}}
+{{--                            <p>--}}
+{{--                                Mr. Dennis grew up studying ballet at Maple Conservatory of Dance in California. He graduated from Belhaven University with a BFA in dance and has danced professionally with Ballet Mississippi and Filter Dance Company. Additionally, he has four years of experience in Martial Arts. Since 2015, Mr. Dennis has both taught modern and ballet at MDU as well as assisted rehearsals and performed in Ballet La Crosse. His favorite roles include: Dance Master from Cinderella and the Milkman from A Little Princess.--}}
+{{--                            </p>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
                 <div class="row my-2 staff-block rounded shadow">
                     <div class="col-sm col-md-3">
                         <img src="/images/amanda.jpg" alt="amanda headshot" class="img-fluid rounded">

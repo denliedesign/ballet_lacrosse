@@ -21,11 +21,12 @@
 </head>
 <body>
 
-@include('sidebar')
+{{--@include('sidebar')--}}
+@include('_nav')
 <div id="main" class="main-shift">
-    <div id="hamburger">
-        <ion-icon name="menu-outline"></ion-icon>
-    </div>
+{{--    <div id="hamburger">--}}
+{{--        <ion-icon name="menu-outline"></ion-icon>--}}
+{{--    </div>--}}
     <div id="head-logo">
         <a href="/"><h1>Ballet La Crosse</h1></a>
     </div>

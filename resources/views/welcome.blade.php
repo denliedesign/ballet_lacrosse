@@ -38,39 +38,38 @@
         <div id="welcome-section" class="py-5 mx-0 px-0" style="background: #eff2fb;">
             <div class="container">
 
-                <div class="row mb-5 p-0">
-                    <div class="col-sm d-flex justify-content-center">
-{{--                        <img src="/images/blc-marushka.jpg" alt="male and female ballet dancer dancing together" class="img-fluid">--}}
-                        <img src="/images/marushka-22.png" alt="marushka poster" class="img-fluid">
-                    </div>
-                    <div class="col-sm text-black d-flex justify-content-center align-items-center">
-                        <div class="animate-recital-text-2 p-3">
-                            <div class="mt-3 mt-md-none"><span class="p-3" style="border: 1px solid black; font-size: 1.5em;">COMING THIS FALL 2022</span></div>
-                            <h1 class="text-uppercase mt-3">Marushka</h1>
-                            <p>
-                                Come see Ballet La Crosse perform "Marushka", a story about an orphan girl with an impossible task.
-                                <br>
-                                <strong>Date:</strong> October 29th & 30th
-                                <br><strong>Time:</strong> TBA
-                                <br><strong>Location:</strong> Weber Center
-                            </p>
-                            <div class="d-flex justify-content-start">
-                                {{--                                <a href="" target="_blank">--}}
-                                <div class="btn btn-secondary text-uppercase shadow" style="font-family: 'Oswald', sans-serif; cursor: inherit;">Tickets Coming Soon</div>
-                                {{--                                </a>--}}
-                            </div>
-                            <p class="mt-4">
-                                Audition Dates
-                                <br>
-                                <strong>Ballet 5/6 & Pre-Pro 2/3:</strong> April 29th <span style="color: #01849C;">6-8:30pm</span>
-                                <br><strong>Beginning Ballet - Ballet 4:</strong> April 30th <span style="color: #01849C;">10-12:30pm</span>
-                                <br><strong>Males 13 and Up:</strong> April 30th <span style="color: #01849C;">10-12:30pm</span>
-                                <br><strong>Makeup Audition:</strong> May 7th <span style="color: #01849C;">3:30-5:30pm</span>
-                            </p>
+{{--                <div class="row mb-5 p-0">--}}
+{{--                    <div class="col-sm d-flex justify-content-center">--}}
+{{--                        <img src="/images/marushka-22.png" alt="marushka poster" class="img-fluid">--}}
+{{--                    </div>--}}
+{{--                    <div class="col-sm text-black d-flex justify-content-center align-items-center">--}}
+{{--                        <div class="animate-recital-text-2 p-3">--}}
+{{--                            <div class="mt-3 mt-md-none"><span class="p-3" style="border: 1px solid black; font-size: 1.5em;">COMING THIS FALL 2022</span></div>--}}
+{{--                            <h1 class="text-uppercase mt-3">Marushka</h1>--}}
+{{--                            <p>--}}
+{{--                                Come see Ballet La Crosse perform "Marushka", a story about an orphan girl with an impossible task.--}}
+{{--                                <br>--}}
+{{--                                <strong>Date:</strong> October 29th & 30th--}}
+{{--                                <br><strong>Time:</strong> TBA--}}
+{{--                                <br><strong>Location:</strong> Weber Center--}}
+{{--                            </p>--}}
+{{--                            <div class="d-flex justify-content-start">--}}
+{{--                                --}}{{--                                <a href="" target="_blank">--}}
+{{--                                <div class="btn btn-secondary text-uppercase shadow" style="font-family: 'Oswald', sans-serif; cursor: inherit;">Tickets Coming Soon</div>--}}
+{{--                                --}}{{--                                </a>--}}
+{{--                            </div>--}}
+{{--                            <p class="mt-4">--}}
+{{--                                Audition Dates--}}
+{{--                                <br>--}}
+{{--                                <strong>Ballet 5/6 & Pre-Pro 2/3:</strong> April 29th <span style="color: #01849C;">6-8:30pm</span>--}}
+{{--                                <br><strong>Beginning Ballet - Ballet 4:</strong> April 30th <span style="color: #01849C;">10-12:30pm</span>--}}
+{{--                                <br><strong>Males 13 and Up:</strong> April 30th <span style="color: #01849C;">10-12:30pm</span>--}}
+{{--                                <br><strong>Makeup Audition:</strong> May 7th <span style="color: #01849C;">3:30-5:30pm</span>--}}
+{{--                            </p>--}}
 
-                        </div>
-                    </div>
-                </div>
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
 
                 <div class="row mt-5 p-0">
                     <div class="col-sm text-black d-flex justify-content-center align-items-center">
