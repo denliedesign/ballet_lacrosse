@@ -17,7 +17,7 @@
                     <a href="/repertoire" class="nav-link text-white"><li class="border-0">Repertoire</li></a>
                 </li>
                 <li class="nav-item mx-3">
-                    <a href="/tickets" class="nav-link text-white"><li class="border-0">Tickets</li></a>
+                    <a href="https://www.webercenterarts.org/event/the-little-mermaid-3/" class="nav-link text-white"><li class="border-0">Tickets</li></a>
                 </li>
                 <li class="nav-item mx-3">
                     <a href="/instructors" class="nav-link text-white"><li class="border-0">Staff</li></a>

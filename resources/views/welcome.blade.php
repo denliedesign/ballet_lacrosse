@@ -71,12 +71,39 @@
 {{--                    </div>--}}
 {{--                </div>--}}
 
+                                <div class="mb-5 p-0">
+                                    <div class="d-flex justify-content-center">
+                                        <img src="/images/logo-mermaid.png" alt="little mermaid logo" class="img-fluid" style="width: 100%; max-width: 600px; height: auto;">
+                                    </div>
+                                    <div class="text-center text-black d-flex justify-content-center align-items-center">
+                                        <div class="animate-recital-text-2 p-3">
+                                            <div class="mt-3 mt-md-none"><span class="p-3" style="border: 1px solid black; font-size: 1.5em;">NOW SHOWING</span></div>
+                                            <h1 class="text-uppercase mt-3">The Little Mermaid</h1>
+                                            <p>
+                                                Ballet La Crosse is proud to present the captivating story of The Little Mermaid, based on the Hans Christian Andersen fairytale about a young mermaid who dreams of becoming a human. Come and experience the unfolding of this touching story of love, loss and spiritual growth to the heavenly scores of Niels Wilhelm Gade and Johannes Frederik Frohlich.  Original Libretto by Kennet Oberly, choreography by Dale Brannon and Alexandra Brannon.
+                                                <br>
+                                                <strong>Date:</strong>
+                                                <br>Saturday, October 28th at 2:00pm & 7:00pm
+                                                <br>Sunday, October 29th at 2:00pm
+                                                <br><strong>Location:</strong>
+                                                <br>The Weber Center for the Performing Arts
+                                            </p>
+                                            <div class="d-flex justify-content-center">
+                                                                                <a href="https://www.webercenterarts.org/event/the-little-mermaid-3/" target="_blank">
+                                                <div class="btn btn-lg btn-primary text-uppercase shadow" style="font-family: 'Oswald', sans-serif; cursor: inherit;">Buy Tickets</div>
+                                                                                </a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
                 <div class="row mt-5 p-0">
                     <div class="col-sm text-black d-flex justify-content-center align-items-center">
                         <div class="animate-recital-text p-3">
-                            <h1 class="text-uppercase">Ballet La Crosse</h1>
+                            <h1 class="text-uppercase">About Ballet La Crosse</h1>
                             <p>
-                                Ballet La Crosse, now in its 10th season, is a semi-professional ballet company designed to increase exposure to and appreciation for classical performing arts in the community as well as to provide opportunities for area youth to gain training that mirrors that of the professional world. Founded in 2012 by Miss Misty Lown and the late Mr. Kennet Oberly, Ballet La Crosse has provided hundreds of local dancers the opportunity to be a part of bringing full-length story ballets and mixed rep shows to local audiences.  Thousands of audience members have been able to experience the wonder of classical performing arts through Ballet La Crosse over the last 10 years.
+                                Ballet La Crosse, now in its 12th season, is a semi-professional ballet company designed to increase exposure to and appreciation for classical performing arts in the community as well as to provide opportunities for area youth to gain training that mirrors that of the professional world. Founded in 2012 by Miss Misty Lown and the late Mr. Kennet Oberly, Ballet La Crosse has provided hundreds of local dancers the opportunity to be a part of bringing full-length story ballets and mixed rep shows to local audiences.  Thousands of audience members have been able to experience the wonder of classical performing arts through Ballet La Crosse over the last 10 years.
                             </p>
                         </div>
                     </div>

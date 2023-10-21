@@ -20,7 +20,7 @@
             <div class="row m-5 d-flex align-items-center text-black">
                 <div class="col-sm text-center">
                     <h3>The Little Mermaid</h3>
-                    <small class="text-muted">2016 &middot; Spring 2021</small>
+                    <small class="text-muted">2016 &middot; Spring 2021 &middot; 2023</small>
                 </div>
                 <div class="col-sm text-center">
                     <h3>The Little Princess</h3>

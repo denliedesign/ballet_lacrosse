@@ -3,5 +3,5 @@
         <ion-icon name="logo-facebook" class="fb-logo"></ion-icon>
     </a>
     <br>
-    <small class="text-muted">Copyright © 2021. Ballet La Crosse. All rights reserved.</small>
+    <small class="text-muted">Copyright © 2023. Ballet La Crosse. All rights reserved.</small>
 </div>
