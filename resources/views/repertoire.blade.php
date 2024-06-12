@@ -28,7 +28,7 @@
                 </div>
                 <div class="col-sm text-center">
                     <h3>Alice in Wonderland</h3>
-                    <small class="text-muted">2018</small>
+                    <small class="text-muted">2018 &middot; 2024</small>
                 </div>
             </div>
             <div id="repertoire-images">
