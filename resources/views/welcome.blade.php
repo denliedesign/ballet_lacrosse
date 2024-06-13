@@ -155,7 +155,7 @@
                         <div class="p-3">
                             <h1 class="text-uppercase">About Ballet La Crosse</h1>
                             <p>
-                                Ballet La Crosse, now in its 12th season, is a semi-professional ballet company designed to increase exposure to and appreciation for classical performing arts in the community as well as to provide opportunities for area youth to gain training that mirrors that of the professional world. Founded in 2012 by Miss Misty Lown and the late Mr. Kennet Oberly, Ballet La Crosse has provided hundreds of local dancers the opportunity to be a part of bringing full-length story ballets and mixed rep shows to local audiences.  Thousands of audience members have been able to experience the wonder of classical performing arts through Ballet La Crosse over the last 10 years.
+                                Ballet La Crosse, now in its 13th season, is a semi-professional ballet company designed to increase exposure to and appreciation for classical performing arts in the community as well as to provide opportunities for area youth to gain training that mirrors that of the professional world. Founded in 2012 by Miss Misty Lown and the late Mr. Kennet Oberly, Ballet La Crosse has provided hundreds of local dancers the opportunity to be a part of bringing full-length story ballets and mixed rep shows to local audiences.  Thousands of audience members have been able to experience the wonder of classical performing arts through Ballet La Crosse over the last 10 years.
                             </p>
                         </div>
                     </div>
