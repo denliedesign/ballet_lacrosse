@@ -119,7 +119,7 @@
                             </p>
                             <div class="d-flex justify-content-center">
 {{--                                <a><div class="btn btn-lg btn-secondary text-uppercase shadow" style="font-family: 'Oswald', sans-serif; cursor: inherit;">Tickets Coming Soon</div></a>--}}
-                                <a href="https://www.webercenterarts.org/event/ballet-la-crosse-presents-alice-in-wonderland/" target="_blank"><div class="btn btn-lg btn-secondary text-uppercase shadow" style="font-family: 'Oswald', sans-serif; cursor: inherit;">Buy Tickets Now</div></a>
+                                <a href="https://www.webercenterarts.org/event/ballet-la-crosse-presents-alice-in-wonderland/" target="_blank"><div class="btn btn-lg btn-info text-uppercase shadow" style="font-family: 'Oswald', sans-serif; cursor: inherit;">Buy Tickets Now</div></a>
                             </div>
 
                         </div>
@@ -144,7 +144,7 @@
                             </p>
                             <div class="d-flex justify-content-center">
 {{--                                <a><div class="btn btn-lg btn-secondary text-uppercase shadow" style="font-family: 'Oswald', sans-serif; cursor: inherit;">Tickets Coming Soon</div></a>--}}
-                                <a href="https://ci.ovationtix.com/35818/pr/1189399/pe/11415587" target="_blank"><div class="btn btn-lg btn-secondary text-uppercase shadow" style="font-family: 'Oswald', sans-serif; cursor: inherit;">BUY TICKETS NOW</div></a>
+                                <a href="https://ci.ovationtix.com/35818/pr/1189399/pe/11415587" target="_blank"><div class="btn btn-lg btn-info text-uppercase shadow" style="font-family: 'Oswald', sans-serif; cursor: inherit;">BUY TICKETS NOW</div></a>
                             </div>
 
                         </div>
