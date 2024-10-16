@@ -17,7 +17,8 @@
                     <a href="/repertoire" class="nav-link text-white"><li class="border-0">Repertoire</li></a>
                 </li>
                 <li class="nav-item mx-3">
-                    <a class="nav-link text-muted"><li class="border-0">Tickets Coming Soon</li></a>
+{{--                    <a class="nav-link text-muted"><li class="border-0">Tickets Coming Soon</li></a>--}}
+                    <a href="https://www.webercenterarts.org/event/ballet-la-crosse-presents-alice-in-wonderland/" class="nav-link text-muted"><li class="border-0">Tickets</li></a>
                 </li>
                 <li class="nav-item mx-3">
                     <a href="/instructors" class="nav-link text-white"><li class="border-0">Staff</li></a>

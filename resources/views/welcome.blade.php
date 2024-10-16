@@ -105,7 +105,8 @@
                     </div>
                     <div class="text-center text-black d-flex justify-content-center align-items-center">
                         <div class="p-3">
-                            <div class="mt-3 mt-md-none"><span class="p-3" style="border: 1px solid black; font-size: 1.5em;">COMING THIS FALL 2024</span></div>
+{{--                            <div class="mt-3 mt-md-none"><span class="p-3" style="border: 1px solid black; font-size: 1.5em;">COMING THIS FALL 2024</span></div>--}}
+                            <div class="mt-3 mt-md-none"><span class="p-3" style="border: 1px solid black; font-size: 1.5em;">NOW SHOWING</span></div>
                             <h1 class="text-uppercase mt-3">Alice in Wonderland</h1>
                             <p>
                                 Journey down the rabbit hole with Alice as she encounters chess pieces, playing cards and other well-known characters from Lewis Carroll’s “Alice’s Adventures in Wonderland” and “Through the Looking-Glass.” With original choreography by the renowned Kennet Oberly, music by Benjamin Britten, and starring a cast of more than 70 dancers, “Alice in Wonderland” will delight audience members of all ages. This uniquely whimsical version offers a deeper look into Carroll’s dream world as seen through a child’s imagination.
@@ -117,9 +118,8 @@
                                 <br>The Weber Center for the Performing Arts
                             </p>
                             <div class="d-flex justify-content-center">
-                                <a>
-                                    <div class="btn btn-lg btn-secondary text-uppercase shadow" style="font-family: 'Oswald', sans-serif; cursor: inherit;">Tickets Coming Soon</div>
-                                </a>
+{{--                                <a><div class="btn btn-lg btn-secondary text-uppercase shadow" style="font-family: 'Oswald', sans-serif; cursor: inherit;">Tickets Coming Soon</div></a>--}}
+                                <a href="https://www.webercenterarts.org/event/ballet-la-crosse-presents-alice-in-wonderland/" target="_blank"><div class="btn btn-lg btn-secondary text-uppercase shadow" style="font-family: 'Oswald', sans-serif; cursor: inherit;">Buy Tickets Now</div></a>
                             </div>
 
                         </div>
@@ -131,7 +131,8 @@
                     </div>
                     <div class="text-center text-black d-flex justify-content-center align-items-center">
                         <div class="p-3">
-                            <div class="mt-3 mt-md-none"><span class="p-3" style="border: 1px solid black; font-size: 1.5em;">COMING THIS WINTER 2024</span></div>
+{{--                            <div class="mt-3 mt-md-none"><span class="p-3" style="border: 1px solid black; font-size: 1.5em;">COMING THIS WINTER 2024</span></div>--}}
+                            <div class="mt-3 mt-md-none"><span class="p-3" style="border: 1px solid black; font-size: 1.5em;">NOW SHOWING</span></div>
                             <h1 class="text-uppercase mt-3">Nutcracker</h1>
                             <p>
                                 "The Nutcracker" ballet follows young Clara, who receives a nutcracker doll on Christmas Eve. That night, the nutcracker comes to life, defeating the Mouse King, and transforming into a prince. Together, they journey to the magical Land of Sweets, where they are entertained by enchanting dances from around the world.
@@ -142,9 +143,8 @@
                                 <br>Viterbo University Fine Arts Center
                             </p>
                             <div class="d-flex justify-content-center">
-                                <a>
-                                    <div class="btn btn-lg btn-secondary text-uppercase shadow" style="font-family: 'Oswald', sans-serif; cursor: inherit;">Tickets Coming Soon</div>
-                                </a>
+{{--                                <a><div class="btn btn-lg btn-secondary text-uppercase shadow" style="font-family: 'Oswald', sans-serif; cursor: inherit;">Tickets Coming Soon</div></a>--}}
+                                <a href="https://ci.ovationtix.com/35818/pr/1189399/pe/11415587" target="_blank"><div class="btn btn-lg btn-secondary text-uppercase shadow" style="font-family: 'Oswald', sans-serif; cursor: inherit;">BUY TICKETS NOW</div></a>
                             </div>
 
                         </div>
