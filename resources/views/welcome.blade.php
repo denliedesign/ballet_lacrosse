@@ -99,32 +99,32 @@
 {{--                                </div>--}}
 
 
-                <div class="mb-5 p-0">
-                    <div class="d-flex justify-content-center">
-                        <img src="/images/logo-alice.png" alt="little mermaid logo" class="img-fluid" style="width: 100%; max-width: 600px; height: auto;">
-                    </div>
-                    <div class="text-center text-black d-flex justify-content-center align-items-center">
-                        <div class="p-3">
+{{--                <div class="mb-5 p-0">--}}
+{{--                    <div class="d-flex justify-content-center">--}}
+{{--                        <img src="/images/logo-alice.png" alt="little mermaid logo" class="img-fluid" style="width: 100%; max-width: 600px; height: auto;">--}}
+{{--                    </div>--}}
+{{--                    <div class="text-center text-black d-flex justify-content-center align-items-center">--}}
+{{--                        <div class="p-3">--}}
 {{--                            <div class="mt-3 mt-md-none"><span class="p-3" style="border: 1px solid black; font-size: 1.5em;">COMING THIS FALL 2024</span></div>--}}
-                            <div class="mt-3 mt-md-none"><span class="p-3" style="border: 1px solid black; font-size: 1.5em;">NOW SHOWING</span></div>
-                            <h1 class="text-uppercase mt-3">Alice in Wonderland</h1>
-                            <p>
-                                Journey down the rabbit hole with Alice as she encounters chess pieces, playing cards and other well-known characters from Lewis Carroll’s “Alice’s Adventures in Wonderland” and “Through the Looking-Glass.” With original choreography by the renowned Kennet Oberly, music by Benjamin Britten, and starring a cast of more than 70 dancers, “Alice in Wonderland” will delight audience members of all ages. This uniquely whimsical version offers a deeper look into Carroll’s dream world as seen through a child’s imagination.
-                                <br>
-                                <strong>Date:</strong>
-                                <br>Saturday, October 26th
-                                <br>Sunday, October 27th
-                                <br><strong>Location:</strong>
-                                <br>The Weber Center for the Performing Arts
-                            </p>
-                            <div class="d-flex justify-content-center">
+{{--                            <div class="mt-3 mt-md-none"><span class="p-3" style="border: 1px solid black; font-size: 1.5em;">NOW SHOWING</span></div>--}}
+{{--                            <h1 class="text-uppercase mt-3">Alice in Wonderland</h1>--}}
+{{--                            <p>--}}
+{{--                                Journey down the rabbit hole with Alice as she encounters chess pieces, playing cards and other well-known characters from Lewis Carroll’s “Alice’s Adventures in Wonderland” and “Through the Looking-Glass.” With original choreography by the renowned Kennet Oberly, music by Benjamin Britten, and starring a cast of more than 70 dancers, “Alice in Wonderland” will delight audience members of all ages. This uniquely whimsical version offers a deeper look into Carroll’s dream world as seen through a child’s imagination.--}}
+{{--                                <br>--}}
+{{--                                <strong>Date:</strong>--}}
+{{--                                <br>Saturday, October 26th--}}
+{{--                                <br>Sunday, October 27th--}}
+{{--                                <br><strong>Location:</strong>--}}
+{{--                                <br>The Weber Center for the Performing Arts--}}
+{{--                            </p>--}}
+{{--                            <div class="d-flex justify-content-center">--}}
 {{--                                <a><div class="btn btn-lg btn-secondary text-uppercase shadow" style="font-family: 'Oswald', sans-serif; cursor: inherit;">Tickets Coming Soon</div></a>--}}
-                                <a href="https://www.webercenterarts.org/event/ballet-la-crosse-presents-alice-in-wonderland/" target="_blank"><div class="btn btn-lg btn-info text-uppercase shadow" style="font-family: 'Oswald', sans-serif; cursor: inherit;">Buy Tickets Now</div></a>
-                            </div>
+{{--                                <a href="https://www.webercenterarts.org/event/ballet-la-crosse-presents-alice-in-wonderland/" target="_blank"><div class="btn btn-lg btn-info text-uppercase shadow" style="font-family: 'Oswald', sans-serif; cursor: inherit;">Buy Tickets Now</div></a>--}}
+{{--                            </div>--}}
 
-                        </div>
-                    </div>
-                </div>
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
                 <div class="mb-5 p-0">
                     <div class="d-flex justify-content-center">
                         <img src="/images/logo-nutcracker.png" alt="little mermaid logo" class="img-fluid" style="width: 100%; max-width: 600px; height: auto;">
